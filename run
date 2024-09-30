@@ -1,0 +1,1 @@
+FLASK_APP=app.py FLASK_EVN= devlopment flask run

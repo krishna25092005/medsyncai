@@ -14,10 +14,21 @@ Welcome to **MedSync AI**, a cutting-edge healthcare platform designed to help y
 
 ---
 
+## Demonstration:
+
+* Live Demo:
+
+https://github.com/user-attachments/assets/54e53a04-8e8d-4aa6-ae9d-e0c2582acea3
+
+* Images:
+
+![MedSync AI](https://github.com/user-attachments/assets/35e495b1-0d43-4281-bd14-91978383f027)
+
+
 ## 🛠️ **Tech Stack**
-- **Frontend**: `HTML`, `CSS`, `JavaScript`
-- **Backend**: `Flask`, `Flask API`
-- **Machine Learning**: `Python`, `Scikit-learn`, `Pandas`, `NumPy`
+- **Frontend**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
+- **Backend**: `Flask`, `Flask API`, `Web Speech API`
+- **Machine Learning**: `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Jupyter Notebook`
 
 ---
 

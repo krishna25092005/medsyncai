@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/54e53a04-8e8d-4aa6-ae9d-e0c2582acea3
 
 ## 🛠️ **Tech Stack**
 - **Frontend**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
-- **Backend**: `Flask`, `Flask API`, `Web Speech API`
+- **Backend**: `Flask`, `Flask API`
 - **Machine Learning**: `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Jupyter Notebook`
 
 ---

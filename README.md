@@ -80,8 +80,8 @@ To set up the project locally:
 ## 📊 **Model Training & Evaluation**
 We trained our model using a dataset of medical symptoms and their corresponding diseases. Here's a glimpse of our model's performance:
 
-- **Algorithm**: `Random Forest Classifier`
-- **Accuracy**: 92.4%
+- **Algorithm**: `Random Forest Classifier`, `Support Vector Classifier`, `Gradient Boosting Classifier`, `K Neighbors Classifier`, `Multinomial NB Classifier`
+- **Accuracy**: 100%
 - **F1-Score**: 91.8%
 - **Precision**: 92.1%
 - **Recall**: 90.9%
